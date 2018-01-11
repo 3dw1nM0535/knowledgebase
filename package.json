@@ -1,0 +1,28 @@
+{
+  "name": "knowledgebase",
+  "version": "1.0.0",
+  "description": "Simple knowledge base app",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/3dw1nM0535/knowledgebase.git"
+  },
+  "keywords": [
+    "Knowledgebase",
+    "Learning"
+  ],
+  "author": "Edwin Moses",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/3dw1nM0535/knowledgebase/issues"
+  },
+  "homepage": "https://github.com/3dw1nM0535/knowledgebase#readme",
+  "dependencies": {
+    "ejs": "^2.5.7",
+    "express": "^4.16.2",
+    "mongoose": "^4.13.9"
+  }
+}
