@@ -21,6 +21,8 @@
   },
   "homepage": "https://github.com/3dw1nM0535/knowledgebase#readme",
   "dependencies": {
+    "body-parser": "^1.18.2",
+    "dotenv": "^4.0.0",
     "ejs": "^2.5.7",
     "express": "^4.16.2",
     "mongoose": "^4.13.9"
